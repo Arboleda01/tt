@@ -1,0 +1,34 @@
+[
+{
+    "usuario":"bfernandez",
+    "password":"123456789",
+    "nombre": "Bryan",
+    "apellido": "Fernandez",
+    "tipousuario": "administrador"
+},
+{
+
+"usuario":"user01",
+"password":"123456789",
+"nombre":"davd",
+"apellido":"arb",
+"tipousuario":"administrador"
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+]
