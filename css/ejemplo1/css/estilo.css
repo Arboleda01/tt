@@ -1,0 +1,30 @@
+p{
+color: brown;
+
+}
+h1{
+    color: blueviolet;
+    background-color: aquamarine;
+    font-family: Verdana;
+    border: 3px red solid;
+}
+h2{
+color: blue;
+}
+.p1{
+    color: chocolate;
+    background-color: blanchedalmond;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-right: 30%;
+}
+.p2{
+color: black;
+background-color: rgb(185, 150, 149);
+font-family: cursive;
+padding-right: 30%;
+
+}
+.ul1{
+    color: rgb(255, 255, 255);
+    background-color: darkslategrey;
+}
